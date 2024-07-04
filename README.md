@@ -13,7 +13,7 @@ Pour commencer, vous devez ajouter le token de votre bot dans le fichier `lookdb
 
 ```python
 # lookdb-remade.py
-TOKEN = 'votre-token-ici'
+token = 'votre-token-ici'
 ```
 
 ### 2. Créer les Dossiers Requis
