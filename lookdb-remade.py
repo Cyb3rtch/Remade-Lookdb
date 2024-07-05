@@ -23,7 +23,7 @@ from discord import Embed, Colour
 
 token = ''
 prefix = '+'
-ipinfo_token = 'ff397c25db0861'
+ipinfo_token = ''
 
 #############################################
 
